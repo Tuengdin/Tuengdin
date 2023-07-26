@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 42 School
 ![tvikanai's 42 stats](https://badge.mediaplus.ma/binary/tvikanai?1337Badge=off&UM6P=off)
 
 ### My Codewars
