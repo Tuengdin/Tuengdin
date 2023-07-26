@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 
 ### GitHub
 
-![Tuengdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuengdin&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuengdin&layout=compact)
+![Tuengdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuengdin&show_icons=true)
+
+## Programming Langauge
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuengdin&layout=compact)
