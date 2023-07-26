@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### GitHub
 
-![Tuengdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuengdin&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuengdin)](https://github.com/Tuengdin/github-readme-stats)
+![Tuengdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuengdin&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuengdin&layout=compact)
