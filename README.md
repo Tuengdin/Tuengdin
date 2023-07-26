@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![Codeware](https://www.codewars.com/users/tdin/badges/large)
 
 ### GitHub
-[![Tuengdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuengdin)](https://github.com/Tuengdin/github-readme-stats)
+
 ![Tuengdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuengdin&show_icons=true)
